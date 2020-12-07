@@ -1,0 +1,14 @@
+.background {
+    background-image: url(bg1.jpg);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    background-size: cover;
+    border-color: black;
+    border-width: 2px;
+    background-color: white;
+}
+
